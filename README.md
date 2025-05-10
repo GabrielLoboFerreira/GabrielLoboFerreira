@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, sou o Gabriel Lobo, bem-vindo(a) ao meu perfil 👋
 
-<!--
-**GabrielLoboFerreira/GabrielLoboFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Profissional em transição de carreira, busco minha primeira vaga em análise/ciência de dados
+- 🌱 Atualmente aprendendo Databricks e Pyspark
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidades: Apaixonado por astronomia, música e futebol
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Sobre mim
+Formado em Administração pela Universidade Federal Fluminense (UFF) e pós-graduado em Ciência de Dados e Big Data pela PUC Minas. Já trabalhei como trainee de auditoria em uma Big 4, onde desenvolvi sólidas habilidades de trabalho e comunicação em equipe e interesse por análise de dados. Domínio de técnicas de análise estatística, visualização de dados, interpretação de grandes volumes de informação e machine learning.
+
+**`Administração`** **`Análise de Dados`** **`Ciência de Dados`** **`Business Intelligence`** 
+
+
+
+## Principais Habilidades
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50"/>
+
+
+
+## Estatísticas
+
+<div>
+<a href="https://github.com/GabrielLoboFerreira">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLoboFerreira&layout=compact&langs_count=7&theme=dark"/>
+</div>
