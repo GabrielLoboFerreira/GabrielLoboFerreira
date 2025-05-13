@@ -1,9 +1,10 @@
+🚧 Work in progress 🚧
+
 # Olá, sou o Gabriel Lobo, bem-vindo(a) ao meu perfil 👋
 
 
 - 🔭 Profissional em transição de carreira, busco minha primeira vaga em análise/ciência de dados
 - 🌱 Atualmente aprendendo Databricks e Pyspark
-- 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidades: Apaixonado por astronomia, música e futebol
 
 
@@ -15,9 +16,17 @@ Formado em Administração pela Universidade Federal Fluminense (UFF) e pós-gra
 
 
 
-## Principais Habilidades
+## Habilidades
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="50"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50"/>
+### Python 
+- Pandas, Numpy
+- Visualização de Dados (Matplotlib, Seaborn, Plotly, WordCloud)
+- Scikit-learn (Preprocessing, Regressão, Classificação, Avaliação de Modelos, Pipeline)
+- Deep Learning (TensorFlow Keras)
+
+### SQL
+- MySql, Microsoft SQLServer
+- DDL, DQL, DML
 
 
 
