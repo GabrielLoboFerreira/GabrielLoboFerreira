@@ -1,5 +1,3 @@
-🚧 Work in progress 🚧
-
 # Olá, sou o Gabriel Lobo, bem-vindo(a) ao meu perfil 👋
 
 
@@ -23,11 +21,15 @@ Formado em Administração pela Universidade Federal Fluminense (UFF) e pós-gra
 - Visualização de Dados (Matplotlib, Seaborn, Plotly, WordCloud)
 - Scikit-learn (Preprocessing, Regressão, Classificação, Avaliação de Modelos, Pipeline)
 - Deep Learning (TensorFlow Keras)
+- Databricks (Pyspark, Spark SQL, Pandas API)
 
 ### SQL
 - MySql, Microsoft SQLServer
 - DDL, DQL, DML
 
+### Power BI
+- Power Query
+- DAX
 
 
 ## Estatísticas
